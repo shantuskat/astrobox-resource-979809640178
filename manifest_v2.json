@@ -58,24 +58,6 @@
     }
   },
   "ext": {
-    "enableAstroBoxCreatorFeatures": true,
-    "trialDownloads": {
-      "xmb10": {
-        "version": "1.0.1",
-        "file_name": "downloads/trial/10「时语」-五月猫(1).bin"
-      },
-      "xmb10nfc": {
-        "version": "1.0.1",
-        "file_name": "downloads/trial/10「时语」-五月猫(1).bin"
-      },
-      "xmrw6": {
-        "version": "1.0.1",
-        "file_name": "downloads/trial/rw6「时语」-五月猫.bin"
-      },
-      "xmb10p": {
-        "version": "1.0.1",
-        "file_name": "downloads/trial/10p「时语」-五月猫.bin"
-      }
-    }
+    "enableAstroBoxCreatorFeatures": true
   }
 }
